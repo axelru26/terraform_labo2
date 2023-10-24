@@ -57,5 +57,5 @@ Cette variable est également de type chaîne de caractères (string). Elle a un
 ### Variable username :
 Cette variable est de type chaîne de caractères (string). Elle est utilisée pour spécifier le nom d'utilisateur du compte local qui sera créé sur la nouvelle machine virtuelle. Par défaut, la valeur est définie sur "azureadmin".
 
-## Screen de l'infrastructure
-* LIEN GITHUB VERS SCREEN INFRA
+## Capture d'écran de l'infrastructure
+* https://github.com/axelru26/terraform_labo2/blob/main/Question%201/rg-viable-hornet.png
